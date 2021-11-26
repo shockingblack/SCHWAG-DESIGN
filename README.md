@@ -1,2 +1,2 @@
 # SCHWAG-DESIGN
-GTC x WGSH
+
